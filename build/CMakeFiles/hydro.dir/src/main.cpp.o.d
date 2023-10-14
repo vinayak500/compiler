@@ -167,4 +167,6 @@ CMakeFiles/hydro.dir/src/main.cpp.o: \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/vinayak/Desktop/hydrogen/src/tokenization.hpp
+ /home/vinayak/Desktop/hydrogen/src/tokenization.hpp \
+ /home/vinayak/Desktop/hydrogen/src/Parser.hpp \
+ /home/vinayak/Desktop/hydrogen/src/generation.hpp
